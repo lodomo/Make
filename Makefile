@@ -11,7 +11,7 @@
 #
 ###############################################################################
 
-PROGRAM = floyds
+PROGRAM = PROGRAM_NAME_HERE 
 CC = gcc
 CFLAGS = -Wall -Wextra -Wshadow -Wunreachable-code \
          -Wredundant-decls -Wmissing-declarations \
